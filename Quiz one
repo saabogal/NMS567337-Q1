@@ -1,0 +1,69 @@
+graphics.off()
+rm(list = ls())
+
+# 1.0 (Standard normal distribution)
+#Determine the quantiles
+q1 = qnorm(0.25)
+q2 = qnorm(0.75)
+
+# Set the value of the interquantile range and the SD
+niqr = IQR = q2 - q1
+nsd  = 1
+
+# Set the proportion of SD to IQR
+pnor = niqr/nsd
+# The relationship is given by 1.3489 SD per IQR or 0.7413 IQR per SD
+
+# 2.0 (Binomial distribution) 
+#Set a group of random variables under a binomial distribution 
+Y = rbinom(40, 10000, 0.5)
+
+# let us take a look at the density of the given random sample
+d = density(Y)
+plot(d)
+
+# Compute the values of the IQR and the SD
+bsd  = sd(Y)
+biqr = IQR(Y, type = 7)
+
+# Set the proportion of SD to IQR
+bip = biqr/bsd
+# Thus the relationship for the given distribution is of 1.250797 SD to
+# 1 IQR or 0.799490245 IQR to SD
+
+
+# 3.0 (Cauchy distribution) Set a group of random variables under Cauchy
+# distribution
+c = rcauchy(50)
+
+# let us take a look at the density of the given random sample
+cd = density(c)
+plot(cd)
+
+# Compute the values of the IQR
+csd  = sd(c)
+ciqr = IQR(c, type = 7)
+
+# Set the proportion of SD to IQR
+cip = ciqr/csd
+cip
+# Thus the relationship for the given distribution is of 0.2143317 SD to 1 IQR
+# or 4.665665415 IQR to SD
+
+# 4.0 (Exponential distribution) Set a group of random variables under
+# Cauchy distribution
+e = rexp(10000)
+
+# let us take a look at the density of the given random sample
+ed = density(e)
+plot(ed)
+
+# Compute the values of the IQR
+esd  = sd(e)
+eiqr = IQR(e, type = 7)
+
+# Set the proportion of SD to IQR
+eip = eiqr/esd
+eip
+# Thus the relationship for the given distribution is of 1.066405 SD to 1 IQR
+# or .993403305 IQR to SD
