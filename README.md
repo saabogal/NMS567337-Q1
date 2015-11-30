@@ -20,6 +20,10 @@ Datafile : Null
 
 ```r
 
+## Clear history
+rm(list = ls(all = TRUE))
+graphics.off()
+
 # Load Packages
 library(MASS)
 library(KernSmooth)
@@ -47,9 +51,16 @@ pdf(file = "distributions.pdf", width = 15, height = 10)
 plot(bden, col = "blue3", type = "l", lty = 1, lwd = 1, xlab = "1000 Random Samples", 
      ylab = "Estimated and Normal Density", cex.lab = 1, cex.axis = 1, ylim = c(0, 
                                                                                 0.45))
-                                                                                
-```
 
 plot(dnorm,   -4, 4, n = 1000, col = "Green", add = TRUE)
 
 plot(dcauchy, -4, 4, n = 1000, col = "red", add = TRUE)
+
+
+
+
+
+
+```
+
+
