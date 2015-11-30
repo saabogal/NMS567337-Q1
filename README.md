@@ -56,11 +56,11 @@ plot(dnorm,   -4, 4, n = 1000, col = "Green", add = TRUE)
 
 plot(dcauchy, -4, 4, n = 1000, col = "red", add = TRUE)
 
-
-
-
-
-
 ```
+
+
+
+
+`
 
 
