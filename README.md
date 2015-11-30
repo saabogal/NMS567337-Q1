@@ -2,6 +2,8 @@
 
 ## ![qlogo](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png) **Quiz Ten**
 
+```yaml
+
 Name of QuantLet : NMMSQ10
 
 Published in : Null
@@ -16,7 +18,7 @@ Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
 
 Datafile : Null
 
-R
+```r
 
 # Load Packages
 library(MASS)
