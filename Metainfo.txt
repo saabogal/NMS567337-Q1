@@ -1,1 +1,19 @@
+```yaml
 
+# Name of QuantLet : NMMSQ3
+
+# Published in : Null
+
+# Description : Plot of different mutivariate normal distributions, through
+# Kernel estimates
+
+# Keywords : 'Multivariate Normal Distribution, Graphical Representation,
+# Random Variables, pdf, Kernel estimates'
+
+# Author : Luis Alejandro Sarmiento Abogado
+
+# Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
+
+# Datafile : Null
+
+```
