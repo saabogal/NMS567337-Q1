@@ -21,7 +21,7 @@
 
 # Datafile : Null
 ```
-![Q_image](https://cloud.githubusercontent.com/assets/15620386/11482450/2322e7f6-97a3-11e5-823d-5ae1f169c737.png)
+![Q_image](https://cloud.githubusercontent.com/assets/15620386/11501374/e1df06d0-9833-11e5-95ff-c315ddf32885.png)
 
 ```r
 # Clear graphics and data
