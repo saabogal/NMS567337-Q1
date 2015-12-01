@@ -4,22 +4,19 @@
 
 ```yaml
 
-# Name of QuantLet : NMMS9a
+Name of QuantLet : NMMS2
 
-# Published in : Null
+Published in : Null
 
-# Description : transformation of a random variable with a given mean
-# and variance to an Asymptotic normal distribution with mean zero and
-# variance 1.
+Description : 'Plot if Right and leftskewed asymetric normal distributions' 
 
-# Keywords : 'Asymptotic Normal Distribution, Graphical Representation,
-# Random Variables, pdf'
+Keywords : 'Asymetric Normal Distribution, Skeweness, pdf, histogram'
 
-# Author : Luis Alejandro Sarmiento Abogado
+Author : Luis Alejandro Sarmiento Abogado
 
-# Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
+Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
 
-# Datafile : Null
+Datafile : Null
 ```
 ![Q_image](https://cloud.githubusercontent.com/assets/15620386/11501374/e1df06d0-9833-11e5-95ff-c315ddf32885.png)
 
@@ -28,30 +25,31 @@
 graphics.off()
 rm(list = ls())
 
-# Generate a set of random variables.
-random <- rnorm(n = 1e+05, mean = 2, sd = 0.5)
+# Load Packages
+library(fGarch)
 
-# Determine their correspondent mean and variance
-mu = mean(random)
-sd = sd(random)
+# Left Skewed
+r = rsnorm(n = 1e+05, xi = 2)
 
-# Set the transformation function.
-Y = function(mu, sd, random) {
-  (random - mu)/sd
-}
-X = (random - mu)/sd
+# Plot the distribution
+hist(r, n = 100, probability = TRUE, border = "white", col = "red", main = "Left Skewed Dist.")
+box()
 
-# Determine the mean and variance of our transformation
-mean(X)
-var(X)
+# Compute the density
+d = density(r)
+lines(d, lwd = 2, col = "blue")
 
-# Plot the results graphically to prove that X is asymptotically normal
-# distributed
-plot(density(random), col = "red", xlim = c(-3, 4), ylim = c(0, .8), lwd = 2, 
-     main = "Densities comparison")
-lines(density(X), col = "blue", lwd = 2)
-legend("topleft", legend = c("Transformation", "r.v"), lty = 1, col = c("blue", 
-                                                                        "red"), cex = 0.9)
+# Right Skewed distribution 
+rr = rsnorm(n = 1e+05, xi = -2)
+
+# Plot the given distribution and correspondent Histogram
+hist(rr, n = 100, probability = TRUE, border = "white", col = "green", 
+     main = "Right Skewed Dist.")
+box()
+
+# Compute the density
+dr = density(rr)
+lines(dr, lwd = 2)
 
 ```
 
