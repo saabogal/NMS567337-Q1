@@ -19,7 +19,7 @@ Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
 Datafile : Null
 
 ```
-![Q_pdf](https://github.com/saabogal/NMS567337-Q1/files/49018/Quiz.six.pdf)
+[Intro.pdf](https://github.com/saabogal/NMS567337-Q1/files/49018/Quiz.six.pdf)
 
 ```tex
 
