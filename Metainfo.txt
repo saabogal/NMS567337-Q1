@@ -1,4 +1,3 @@
-```yaml
 Name of QuantLet : NMMS2
 
 Published in : Null
@@ -13,4 +12,3 @@ Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
 
 Datafile : Null
 
-```
