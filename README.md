@@ -19,6 +19,7 @@ Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
 Datafile : Null
 ```
 ![Q_image](https://cloud.githubusercontent.com/assets/15620386/11501538/45696f1e-9835-11e5-80cf-e912fd50923f.png)
+![Q_image](https://cloud.githubusercontent.com/assets/15620386/11501538/45696f1e-9835-11e5-80cf-e912fd50923f.png)
 
 ```r
 # Clear graphics and data
