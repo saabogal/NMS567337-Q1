@@ -1,13 +1,16 @@
-Name of QuantLet : NMMSQ10
+# Name of QuantLet : NMMS9a
 
-Published in : Null
+# Published in : Null
 
-Description : 'An example of random variables nor following asymptotic normality, for this specific example a Cauchy set of random variables was selected and its asymptotic behavior compared with both Binomial and normal distributions'.
+# Description : transformation of a random variable with a given mean
+# and variance to an Asymptotic normal distribution with mean zero and
+# variance 1.
 
-Keywords : 'Asymptotic Normal Distribution, Graphical Representation, Random Variables, Cauchy, Binomial, pdf'
+# Keywords : 'Asymptotic Normal Distribution, Graphical Representation,
+# Random Variables, pdf'
 
-Author : Luis Alejandro Sarmiento Abogado
+# Author : Luis Alejandro Sarmiento Abogado
 
-Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
+# Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
 
-Datafile : Null
+# Datafile : Null
