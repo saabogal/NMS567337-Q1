@@ -1,13 +1,16 @@
-# Name of QuantLet : NMMS2
+```yaml
+Name of QuantLet : NMMS2
 
-# Published in : Null
+Published in : Null
 
-# Description : 'Plot if Right and leftskewed asymetric normal distributions' 
+Description : 'Plot if Right and leftskewed asymetric normal distributions' 
 
-# Keywords : 'Asymetric Normal Distribution, Skeweness, pdf, histogram'
+Keywords : 'Asymetric Normal Distribution, Skeweness, pdf, histogram'
 
-# Author : Luis Alejandro Sarmiento Abogado
+Author : Luis Alejandro Sarmiento Abogado
 
-# Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
+Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
 
-# Datafile : Null
+Datafile : Null
+
+```
