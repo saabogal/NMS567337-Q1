@@ -1,13 +1,10 @@
-# Name of QuantLet : NMMS9a
+# Name of QuantLet : NMMS2
 
 # Published in : Null
 
-# Description : transformation of a random variable with a given mean
-# and variance to an Asymptotic normal distribution with mean zero and
-# variance 1.
+# Description : 'Plot if Right and leftskewed asymetric normal distributions' 
 
-# Keywords : 'Asymptotic Normal Distribution, Graphical Representation,
-# Random Variables, pdf'
+# Keywords : 'Asymetric Normal Distribution, Skeweness, pdf, histogram'
 
 # Author : Luis Alejandro Sarmiento Abogado
 
