@@ -1,16 +1,16 @@
 ![Q_banner](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png)
 
-## ![qlogo](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png) **Quiz Three**
+## ![qlogo](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png) **Quiz Four**
 
 ```yaml
 
-Name of QuantLet : NMMS6
+Name of QuantLet : NMMS4
 
 Published in : Null
 
-Description : 'Quiz 6 Numerical Methods of Mathematical Statistics; Prove Equation 19 for the first four moments' 
+Description : 'Quiz 6 Numerical Methods of Mathematical Statistics; Show the characteristic functions of several distributions' 
 
-Keywords : 'Properties of the Characteristic Function, Normal distribution, Moments, histogram'
+Keywords : 'Characteristic Function, pdf, '
 
 Author : Luis Alejandro Sarmiento Abogado
 
