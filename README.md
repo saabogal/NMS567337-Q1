@@ -8,7 +8,7 @@ Name of QuantLet : NMMS2
 
 Published in : Null
 
-Description : 'Plot if Right and leftskewed asymetric normal distributions' 
+Description : 'Plot Right and leftskewed asymetric normal distributions' 
 
 Keywords : 'Asymetric Normal Distribution, Skeweness, pdf, histogram'
 
