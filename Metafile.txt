@@ -1,10 +1,11 @@
-Name of QuantLet : NMMS6
+Name of QuantLet : NMMS5
 
 Published in : Null
 
-Description : 'Quiz 6 Numerical Methods of Mathematical Statistics; Prove Equation 19 for the first four moments' 
+Description : 'Quiz 5 Numerical Methods of Mathematical Statistics; 
+Prove 18 under standard normal distribution' 
 
-Keywords : 'Properties of the Characteristic Function, Normal distribution, Moments, histogram'
+Keywords : 'Weak Law of Large Numbers, Convergence Theory, Convergence properties'
 
 Author : Luis Alejandro Sarmiento Abogado
 
