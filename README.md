@@ -8,7 +8,8 @@ Name of QuantLet : NMMS4
 
 Published in : Null
 
-Description : 'Quiz 6 Numerical Methods of Mathematical Statistics; Show the characteristic functions of several distributions' 
+Description : 'Quiz 4 Numerical Methods of Mathematical Statistics; Show the 
+characteristic functions of several distributions' 
 
 Keywords : 'Characteristic Function, pdf, '
 
