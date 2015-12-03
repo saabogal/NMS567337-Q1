@@ -8,7 +8,7 @@ Name of QuantLet : NMMS6
 
 Published in : Null
 
-Description : 'Quiz 6 Numerical Methods of Mathematical Statistics; Prove Theorem 28 and 29' 
+Description : 'Quiz 12 Numerical Methods of Mathematical Statistics; Prove Theorem 28 and 29' 
 
 Keywords : 'Weak Law of Large Numbers, Convergence Theory, Convergence properties'
 
