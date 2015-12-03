@@ -1,10 +1,10 @@
 ![Q_banner](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/banner.png)
 
-## ![qlogo](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png) **Quiz Three**
+## ![qlogo](https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png) **Quiz Extra**
 
 ```yaml
 
-# Name of QuantLet : NMMSQ3
+# Name of QuantLet : NMMSQextra
 
 # Published in : Null
 
