@@ -1,10 +1,10 @@
-Name of QuantLet : NMMS2
+Name of QuantLet : MSM
 
-Published in : Null
+Published in : MSMLLN
 
 Description : 'Plot Right and leftskewed asymetric normal distributions' 
 
-Keywords : 'Asymetric Normal Distribution, Skeweness, pdf, histogram'
+Keywords : 'Assymetric, Standard-Normal, Skewness, pdf, histogram'
 
 Author : Luis Alejandro Sarmiento Abogado
 
