@@ -1,0 +1,13 @@
+Name of QuantLet : NMMS6
+
+Published in : Null
+
+Description : 'Quiz 6 Numerical Methods of Mathematical Statistics; Prove Equation 19 for the first four moments' 
+
+Keywords : 'Properties of the Characteristic Function, Normal distribution, Moments, histogram'
+
+Author : Luis Alejandro Sarmiento Abogado
+
+Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
+
+Datafile : Null
