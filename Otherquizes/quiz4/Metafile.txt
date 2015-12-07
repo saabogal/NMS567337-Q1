@@ -1,0 +1,14 @@
+Name of QuantLet : NMMS4
+
+Published in : Null
+
+Description : 'Quiz 4 Numerical Methods of Mathematical Statistics; Show the 
+characteristic functions of several distributions' 
+
+Keywords : 'Characteristic Function, pdf, '
+
+Author : Luis Alejandro Sarmiento Abogado
+
+Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
+
+Datafile : Null
