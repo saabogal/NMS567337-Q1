@@ -4,9 +4,9 @@
 
 ```yaml
 
-# Name of QuantLet : NMMS9a
+# Name of QuantLet : MSM
 
-# Published in : Null
+# Published in : MSMLLN
 
 # Description : transformation of a random variable with a given mean
 # and variance to an Asymptotic normal distribution with mean zero and
