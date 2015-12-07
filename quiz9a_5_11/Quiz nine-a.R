@@ -5,7 +5,7 @@ rm(list = ls())
 # Generate a set of random variables.
 random <- rnorm(n = 1e+05, mean = 2, sd = 0.5)
 
-# Determine their correspondent mean and variance
+# Determine their correspondent mean and variancehttps://github.com/saabogal/Quizzes-Mathematical-Statistics/tree/Quiz9a_p5_11/tree/Quiz9a_p5_11/Quiz9a_5_11
 mu = mean(random)
 sd = sd(random)
 
