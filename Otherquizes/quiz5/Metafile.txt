@@ -1,0 +1,14 @@
+Name of QuantLet : NMMS5
+
+Published in : Null
+
+Description : 'Quiz 5 Numerical Methods of Mathematical Statistics; 
+Prove 18 under standard normal distribution' 
+
+Keywords : 'Weak Law of Large Numbers, Convergence Theory, Convergence properties'
+
+Author : Luis Alejandro Sarmiento Abogado
+
+Submitted : Tue, December 02 2015 by Luis Alejandro Sarmiento Abogado
+
+Datafile : Null
