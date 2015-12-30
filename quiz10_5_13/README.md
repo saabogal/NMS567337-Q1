@@ -10,7 +10,7 @@ Published in : Null
 
 Description : 'An example of random variables nor following asymptotic normality, for this specific example a Cauchy set of random variables was selected and its asymptotic behavior compared with both Binomial and normal distributions'.
 
-Keywords : 'Asymptotic Normal Distribution, Graphical Representation, Random Variables, Cauchy, Binomial, pdf'
+Keywords : 'Asymptotic normal distribution, Graphical Representation, Random Variables, Cauchy, Binomial, pdf'
 
 Author : Luis Alejandro Sarmiento Abogado
 
